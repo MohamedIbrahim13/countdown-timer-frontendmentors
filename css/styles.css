@@ -25,7 +25,9 @@ p {
   text-transform: uppercase;
   text-align: center;
 }
-
+.container-fluid{
+  height: inherit;
+}
 h6 {
   font-size: 1.25rem;
   color: white;
